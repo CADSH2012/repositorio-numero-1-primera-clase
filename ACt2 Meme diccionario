@@ -1,0 +1,6 @@
+meme_dict = {
+            "CRINGE": "Algo excepcionalmente raro o embarazoso",
+            "LOL": "Una respuesta común a algo gracioso",
+            "XD": "Una respuesta a algo irónico o gracioso",
+            "wazaa": "Se usa para causar sorpresa o simplemente hacer un ambiente de risa"
+            }
